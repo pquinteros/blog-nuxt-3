@@ -45,5 +45,6 @@ useSeoMeta({
   twitterCard: 'summary_large_image',
 })
 </script>
-<style lang="scss" scoped>
+<style lang="scss">
+  @use "~/assets/scss/main.scss";
 </style>
